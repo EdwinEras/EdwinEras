@@ -1,15 +1,14 @@
 <div align="center">
 
-# Edwin Eras
+# Edwin Eras 🇨🇦 🇪🇨
 
 **Software Engineer · Full-Stack · AI & Security**
 
 Toronto, ON &nbsp;|&nbsp; Open to opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwineras/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdwinEras)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/edwin-eras.b8228b18)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Edwin-Eras-Zamora)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwineras@outlook.com)
 
 </div>
 
@@ -17,7 +16,7 @@ Toronto, ON &nbsp;|&nbsp; Open to opportunities
 
 ## 👋 About Me
 
-New-grad Software Engineer with **5 years of hands-on experience** building web and mobile applications. I enjoy solving real problems through clean code, and I'm passionate about **data analytics, AI integrations, and cybersecurity**. I thrive in agile teams where shipping quality software matters.
+Software Engineer with **5 years of hands-on experience** building web and mobile applications. I enjoy solving real problems through clean code, and I'm passionate about **data analytics, AI integrations, and cybersecurity**. I thrive in agile teams where shipping quality software matters.
 
 ---
 
@@ -47,15 +46,6 @@ New-grad Software Engineer with **5 years of hands-on experience** building web 
 
 ---
 
-## 📜 Certifications
-
-- 🔐 **CompTIA Security+** (2026)
-- ☁️ **AWS Cloud Security** (2025)
-- 🌐 **CCNA Introduction to Networks** (2021)
-- ☕ **Oracle Java Foundations** (2020)
-
----
-
 ## 🔬 Research
 
 - 🌿 [Early detection of Papaya ringspot virus using Deep Learning & multispectral imaging](https://www.dspace.espol.edu.ec/handle/123456789/58408?locale=en)
@@ -63,8 +53,19 @@ New-grad Software Engineer with **5 years of hands-on experience** building web 
 
 ---
 
+## 🌎 Languages
+ 
 <div align="center">
-
-🇪🇸 &nbsp; 🇬🇧 &nbsp; 🇫🇷
-
+<img src="https://flagcdn.com/w80/es.png" width="60" alt="Spanish" title="Spanish"
+  style="margin: 0 16px; border-radius: 6px; box-shadow: 0 0 0 2px #c60b1e;
+         animation: pulse 2s ease-in-out infinite;" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://flagcdn.com/w80/gb.png" width="60" alt="English" title="English"
+  style="margin: 0 16px; border-radius: 6px; box-shadow: 0 0 0 2px #012169;
+         animation: pulse 2s ease-in-out 0.66s infinite;" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://flagcdn.com/w80/fr.png" width="60" alt="French" title="French"
+  style="margin: 0 16px; border-radius: 6px; box-shadow: 0 0 0 2px #002395;
+         animation: pulse 2s ease-in-out 1.33s infinite;" />
+ 
 </div>
