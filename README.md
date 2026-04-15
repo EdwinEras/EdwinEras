@@ -12,13 +12,13 @@ Toronto, ON &nbsp;|&nbsp; Open to opportunities
 
 </div>
 
----
+
 
 ## 👋 About Me
 
 Software Engineer with **5 years of hands-on experience** building web and mobile applications. I enjoy solving real problems through clean code, and I'm passionate about **data analytics, AI integrations, and cybersecurity**. I thrive in agile teams where shipping quality software matters.
 
----
+
 
 ## 🛠️ Technologies
 
@@ -34,24 +34,28 @@ Software Engineer with **5 years of hands-on experience** building web and mobil
 
 </div>
 
----
+
 
 ## 🎓 Education
 
+<div align="center">
+ 
 | Degree | Institution | Year |
 |--------|-------------|------|
 | Cybersecurity & Threat Management | Seneca Polytechnic, Toronto | 2025–2026 |
 | Database Application Developer | Seneca Polytechnic, Toronto | 2024–2025 |
 | B.Sc. Computer Science | ESPOL, Ecuador | 2018–2023 |
 
----
+</div>
+
+
 
 ## 🔬 Research
 
 - 🌿 [Early detection of Papaya ringspot virus using Deep Learning & multispectral imaging](https://www.dspace.espol.edu.ec/handle/123456789/58408?locale=en)
 - 🤖 [Facial expression analysis in children with ASD using AI & Human-Robot-Game platform](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2434896)
 
----
+
 
 ## 🌎 Languages
  
