@@ -1,10 +1,6 @@
 <div align="center">
 
-# Edwin Eras 🇨🇦 🇪🇨
-
-**Software Engineer · Full-Stack · AI & Security**
-
-Toronto, ON &nbsp;|&nbsp; Open to opportunities
+# Edwin Eras 🇨🇦 🇪🇨 (Software Engineer · Full-Stack · Cyber Security · AI)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwineras/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/edwin-eras.b8228b18)
